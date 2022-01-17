@@ -193,4 +193,7 @@
       </p>
    </xsl:template>
    
+   <!-- odstranim pri spodnji param true zaradi oštevilčenja naslovov-->
+   <xsl:param name="numberHeadings"></xsl:param>
+   
 </xsl:stylesheet>
