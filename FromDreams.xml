@@ -3,12 +3,12 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" xml:lang="en">FROM DREAMS OF A SECOND SWITZERLAND' TO CAPITALISM
-               WITHOUT A HUMAN FACE</title>
+            <title type="main" xml:lang="en">From Dreams of a Second Switzerland' to Capitalism
+               Without a Human Face</title>
             <title type="sub" xml:lang="en">The Path of Economic Independence and Slovenian Economic
                Transition</title>
-            <title type="main" xml:lang="sl">OD SANJ O 'DRUGI ŠVICI' V KAPITALIZEM BREZ ČLOVEŠKEGA
-               OBRAZA</title>
+            <title type="main" xml:lang="sl">Od sanj o 'drugi Švici' v kapitalizem brez človeškega
+               obraza</title>
             <title type="sub" xml:lang="sl">Pot gospodarske osamosvojitve in tranzicija slovenskega
                gospodarstva</title>
             <author>
@@ -19,6 +19,10 @@
                <resp>Reviewer / Recenzenta</resp>
                <name>Dušan Nećak</name>
                <name>Jure Gašparič</name>
+            </respStmt>
+            <respStmt>
+               <resp>English translation</resp>
+               <name>Jasna Levanič</name>
             </respStmt>
             <respStmt>
                <resp>TEI Encoding / Kodiranje TEI</resp>
@@ -121,7 +125,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
                   gospodarstva</titlePart>
             </docTitle>
             <docAuthor>Aleksander Lorenčič</docAuthor>
-            <graphic url="cover.png"/>
+            <graphic url="cover.jpg"/>
             <docImprint>
                <publisher>Inštitut za novejšo zgodovino / Institute of Contemporary
                   History</publisher>
@@ -291,8 +295,8 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
       </front>
       <body>
          <div type="chapter" xml:id="ch1" xml:lang="en" corresp="#ch1-sl">
-            <head xml:id="FromDreams-head-12">ECONOMIC HISTORIOGRAPHY ON THE FRINGES OF
-               INTEREST</head>
+            <head xml:id="FromDreams-head-12">Economic Historiography on the Fringes of
+               Interest</head>
             <p xml:id="FromDreams-p-9">In historiography, we know only a handful of such clear and
                precisely defined turning points as the year 1991 represents in Slovenian history.
                With the declaration of autonomy and independence, Slovenians took our own destiny
@@ -358,7 +362,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
                purposefully (e.g. materials from several companies).</p>
          </div>
          <div type="chapter" xml:id="ch1-sl" xml:lang="sl" corresp="#ch1">
-            <head xml:id="FromDreams-head-13">GOSPODARSKO ZGODOVINOPISJE NA OBROBJU ZANIMANJA</head>
+            <head xml:id="FromDreams-head-13">Gospodarsko zgodovinopisje na obrobju zanimanja</head>
             <p xml:id="FromDreams-p-12">V zgodovinopisju poznamo le malo tako jasnih in časovno
                natančno zamejenih prelomnic, kot jo v slovenski zgodovini predstavlja leto 1991. Z
                razglasitvijo samostojnosti in neodvisnosti smo Slovenci prvič prevzeli lastno usodo
@@ -415,8 +419,8 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
                zavestno (gradiva številnih podjetij npr.).</p>
          </div>
          <div type="chapter" xml:id="ch2" xml:lang="en" corresp="#ch2-sl">
-            <head xml:id="FromDreams-head-14">ECONOMIC CRISES: AN INTEGRAL PART OF THE
-               ECONOMY</head>
+            <head xml:id="FromDreams-head-14">Economic Crises: An Integral Part of the
+               Economy</head>
             <p xml:id="FromDreams-p-15">According to the economic historian Žarko Lazarević, as an
                integral part of economic life, crises solve accumulated economic imbalances and are
                like a divide representing either an end or a beginning of a cycle.<note place="foot"
@@ -516,7 +520,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
                number of structural reforms are urgent (health, pension ...).</p>
          </div>
          <div type="chapter" xml:id="ch2-sl" xml:lang="sl" corresp="#ch2">
-            <head xml:id="FromDreams-head-15">GOSPODARSKE KRIZE: SESTAVNI DEL GOSPODARSTVA</head>
+            <head xml:id="FromDreams-head-15">Gospodarske krize: Sestavni del gospodarstva</head>
             <p xml:id="FromDreams-p-17">S krizami kot sestavnim delom gospodarskega življenja se
                rešujejo nakopičena gospodarska neravnovesja in so kot razvodnica, ki pomeni ali
                konec ali začetek nekega ciklusa, meni gospodarski zgodovinar žarko Lazarević.<note
@@ -609,8 +613,8 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
                reforme (zdravstvena, pokojninska …).</p>
          </div>
          <div type="chapter" xml:id="ch3" xml:lang="en" corresp="#ch3-sl">
-            <head xml:id="FromDreams-head-16">THE COMPLEXITY OF TRANSITION AND THE PERSPECTIVES ON
-               IT</head>
+            <head xml:id="FromDreams-head-16">The Complexity of Transition and the Perspectives on
+               it</head>
             <p style="text-align:justify;" xml:id="FromDreams-p-19">“We can no longer live like
                this” were the words of Mikhail Gorbachev in March 1985, which clearly indicated that
                the end of the then socialist social order was approaching.<note place="foot"
@@ -1122,7 +1126,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
                services in general.</p>
          </div>
          <div type="chapter" xml:id="ch3-sl" xml:lang="sl" corresp="#ch3">
-            <head xml:id="FromDreams-head-17">KOMPLEKSNOST TRANZICIJE IN POGLEDI NANJO</head>
+            <head xml:id="FromDreams-head-17">Kompleksnost tranzicije in pogledi nanjo</head>
             <p xml:id="FromDreams-p-28"> »Tako ne moremo več živeti« so bile besede Mihaila
                Gorbačova marca 1985, ki so jasno nakazovale, da se bliža konec takratne
                socialistične družbene ureditve.<note place="foot" xml:id="sl-ftn11" n="11">
@@ -1552,7 +1556,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
                javno oskrbo in delovanje sploh.</p>
          </div>
          <div type="chapter" xml:id="ch4" xml:lang="en" corresp="#ch4-sl">
-            <head xml:id="FromDreams-head-18">YUGOSLAVIA BECOMES AN OBSTACLE FOR DEVELOPMENT</head>
+            <head xml:id="FromDreams-head-18">Yugoslavia becomes an Obstacle for Development</head>
             <p xml:id="FromDreams-p-37">Views on historical experiences vary and change with the
                passage of time. The fact is that Slovenians have always had an almost mythical
                attitude to every state formation they have lived in. The same is true of the Second
@@ -2560,7 +2564,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
             </div>
          </div>
          <div type="chapter" xml:id="ch4-sl" xml:lang="sl" corresp="#ch4">
-            <head xml:id="FromDreams-head-55">JUGOSLAVIJA POSTANE 'COKLA' ZA RAZVOJ</head>
+            <head xml:id="FromDreams-head-55">Jugoslavija postane 'cokla' za razvoj</head>
             <p xml:id="FromDreams-p-53">Pogledi na zgodovinske izkušnje so različni, posebej pa se z
                leti spreminjajo. Dejstvo je, da smo Slovenci do vsakokratne državne tvorbe, v okviru
                katere smo živeli, izoblikovali tako rekoč mitični odnos. Enako velja tudi za drugo
@@ -3424,7 +3428,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
             </div>
          </div>
          <div type="chapter" xml:id="ch5" xml:lang="en" corresp="#ch5-sl">
-            <head xml:id="FromDreams-head-92">FINAL FAREWELL FROM THE SOCIALIST ECONOMY</head>
+            <head xml:id="FromDreams-head-92">Final Farewell from the Socialist Economy</head>
             <p xml:id="FromDreams-p-69">Demos won the first Slovenian party elections in April 1990,
                having previously declared itself for an independent and economically autonomous
                Slovenia. As early as March 1990, Jože Mencinger wrote that “with the demands for the
@@ -3914,7 +3918,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
             </div>
          </div>
          <div type="chapter" xml:id="ch5-sl" xml:lang="sl" corresp="#ch5">
-            <head xml:id="FromDreams-head-95">DOKONČNO SLOVO OD SOCIALISTIČNEGA GOSPODARSTVA</head>
+            <head xml:id="FromDreams-head-95">Dokončno slovo od socialističnega gospodarstva</head>
             <p xml:id="FromDreams-p-78">Na prvih strankarskih volitvah v Sloveniji aprila 1990 je
                zmagal Demos, ki se je pred tem opredelil za samostojno in gospodarsko neodvisno
                Slovenijo. Še marca 1990 je Jože Mencinger zapisal, da se »ob zahtevah po odcepitvi
@@ -4344,7 +4348,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
             </div>
          </div>
          <div type="chapter" xml:id="ch6" xml:lang="en" corresp="#ch6-sl">
-            <head xml:id="FromDreams-head-98">THE PATH TO THE EUROPEAN UNION</head>
+            <head xml:id="FromDreams-head-98">The Path to the European Union</head>
             <div type="subchapter" xml:id="ch6.1" corresp="#ch6.1-sl">
                <head xml:id="FromDreams-head-99">Gaining international recognition and joining key
                   economic integrations</head>
@@ -4875,7 +4879,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
             </div>
          </div>
          <div type="chapter" xml:id="ch6-sl" xml:lang="sl" corresp="#ch6">
-            <head xml:id="FromDreams-head-101">POT V EVROPSKO UNIJO</head>
+            <head xml:id="FromDreams-head-101">Pot v Evropsko unijo</head>
             <div type="subchapter" xml:id="ch6.1-sl" corresp="#ch6.1">
                <head xml:id="FromDreams-head-102">Mednarodno priznanje in vstopanje v ključne
                   gospodarske integracije</head>
@@ -5326,7 +5330,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
             </div>
          </div>
          <div type="chapter" xml:id="ch7" xml:lang="en" corresp="#ch7-sl">
-            <head xml:id="FromDreams-head-104">MACROECONOMIC PICTURE OF SLOVENIA</head>
+            <head xml:id="FromDreams-head-104">Macroeconomic Picture of Slovenia</head>
             <p xml:id="FromDreams-p-107">Financial or monetary policy has a vital role in the
                economy. It is a part of the economic policy and represents the most important part
                of the state's economic policy besides the fiscal policy under the auspices of the
@@ -6570,7 +6574,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
             </div>
          </div>
          <div type="chapter" xml:id="ch7-sl" xml:lang="sl" corresp="#ch7">
-            <head xml:id="FromDreams-head-117">MAKROEKONOMSKA PODOBA SLOVENIJE</head>
+            <head xml:id="FromDreams-head-117">Makroekonomska podoba Slovenije</head>
             <p xml:id="FromDreams-p-132">Denarna oziroma monetarna politika ima v gospodarstvu
                pomembno vlogo. Je del ekonomske politike in je poleg fiskalne politike, ki je pod
                okriljem vlade, najpomembnejši del ekonomske politike države. Denarno politiko je v
@@ -6626,15 +6630,16 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
                slovenski model bančne sanacije bil edinstven v smislu obsega, saj doslej v praksi
                drugih držav ni bil znan primer, da bi sanacija naenkrat zajela več kot 50 odstotkov
                bančnega sektorja«.<note place="foot" xml:id="sl-ftn158" n="158">
-                  <bibl>Štiblar, Franjo, Sanacija bank v Sloveniji. V: Bančni vestnik, let. 50, št. 5, may 2001, str. 62.</bibl>
+                  <bibl>Štiblar, Franjo, Sanacija bank v Sloveniji. V: Bančni vestnik, let. 50, št.
+                     5, may 2001, str. 62.</bibl>
                </note></p>
             <p xml:id="FromDreams-p-134">Vsekakor pa je jasno, da bo potrebno področje bančništva v
                prihodnje podrobneje raziskati. Zelo pomenljiva je knjiga Franja Štiblarja,
                Bančništvo kot hrbtenica samostojne Slovenije, ki je prva celovita predstavitev
                bančništva v Sloveniji, v kateri avtor opozarja na področja, ki jih bo treba
                podrobneje osvetliti.<note place="foot" xml:id="sl-ftn159" n="159">
-                  <bibl>Štiblar, Franjo, Bančništvo kot hrbtenica samostojne Slovenije, Ljubljana: Založba ZRC SAZU,
-                     2010.</bibl>
+                  <bibl>Štiblar, Franjo, Bančništvo kot hrbtenica samostojne Slovenije, Ljubljana:
+                     Založba ZRC SAZU, 2010.</bibl>
                </note>
             </p>
             <p xml:id="FromDreams-p-135">Glede na makroekonomske kazalnike lahko obdobje tranzicije
@@ -7777,7 +7782,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
             </div>
          </div>
          <div type="chapter" xml:id="ch8" xml:lang="en" corresp="#ch8-sl">
-            <head xml:id="FromDreams-head-127">PRIVATIZATION OF THE ECONOMY</head>
+            <head xml:id="FromDreams-head-127">Privatization of the Economy</head>
             <div type="subchapter" xml:id="ch8.1" corresp="#ch8.1-sl">
                <head xml:id="FromDreams-head-128">The first condition for economic
                   transformation</head>
@@ -12129,7 +12134,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
             </div>
          </div>
          <div type="chapter" xml:id="ch8-sl" xml:lang="sl" corresp="#ch8">
-            <head xml:id="FromDreams-head-145">LASTNINJENJE IN PRIVATIZACIJA GOSPODARSTVA</head>
+            <head xml:id="FromDreams-head-145">Lastninjenje in privatizacija gospodarstva</head>
             <div type="subchapter" xml:id="ch8.1-sl" corresp="#ch8.1">
                <head xml:id="FromDreams-head-146">Prvi pogoj za gospodarsko preobrazbo</head>
                <p xml:id="FromDreams-p-232">Privatizacija<note place="foot" xml:id="sl-ftn235"
@@ -15935,7 +15940,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
             </div>
          </div>
          <div type="chapter" xml:id="ch9" xml:lang="en" corresp="#ch9-sl">
-            <head xml:id="FromDreams-head-162">RESTRUCTURING OF THE ECONOMY</head>
+            <head xml:id="FromDreams-head-162">Restructuring of the Economy</head>
             <div type="subchapter" xml:id="ch9.1" corresp="#ch9.1-sl">
                <head xml:id="FromDreams-head-163">A process taking a decade or more</head>
                <p xml:id="FromDreams-p-313">The process of restructuring of the economy or companies
@@ -17037,7 +17042,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
             </div>
          </div>
          <div type="chapter" xml:id="ch9-sl" xml:lang="sl" corresp="#ch9">
-            <head xml:id="FromDreams-head-170">PRESTRUKTURIRANJE GOSPODARSTVA</head>
+            <head xml:id="FromDreams-head-170">Prestrukturiranje gospodarstva</head>
             <div type="subchapter" xml:id="ch9.1-sl" corresp="#ch9.1">
                <head xml:id="FromDreams-head-171">Proces, trajajoč desetletje ali več</head>
                <p xml:id="FromDreams-p-336">Proces prestrukturiranja gospodarstva oziroma podjetij
@@ -18056,8 +18061,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
             </div>
          </div>
          <div type="chapter" xml:id="ch10" xml:lang="en" corresp="#ch10-sl">
-            <head xml:id="FromDreams-head-178">UNSUCCESSFUL EFFORTS FOR A MORE COHERENT REGIONAL
-               DEVELOPMENT</head>
+            <head xml:id="FromDreams-head-178">Unsuccessfull Efforts for a more Coherent Regional Development</head>
             <p xml:id="FromDreams-p-359">In Slovenia, an intentional revival of economic development
                in less developed parts of the republic began to be considered as early as October
                1946, by envisaging an establishment of a special fund to promote the development in
@@ -18442,8 +18446,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
             </p>
          </div>
          <div type="chapter" xml:id="ch10-sl" xml:lang="sl" corresp="#ch10">
-            <head xml:id="FromDreams-head-180">NEUSPEŠNA PRIZADEVANJA PO SKLADNEJŠEM REGIONALNEM
-               RAZVOJU</head>
+            <head xml:id="FromDreams-head-180">Neuspešna prizadevanja po skladnejšem regionalnem razvoju</head>
             <p xml:id="FromDreams-p-365">V Sloveniji so o načrtnem oživljanju gospodarskega razvoja
                v manj razvitih delih republike začeli razmišljati že oktobra 1946, tako da so
                predvideli ustanovitev posebnega sklada za pospeševanje razvoja v nerazvitih okrajih.
@@ -18806,7 +18809,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
       </body>
       <back>
          <div type="summary" xml:id="summary" xml:lang="en" corresp="#summary-sl">
-            <head xml:id="FromDreams-head-182">SUMMARY</head>
+            <head xml:id="FromDreams-head-182">Summary</head>
             <p xml:id="FromDreams-p-371">Three decades of an independent state are certainly a long
                enough period to give an opinion on the transition process, which formally ended with
                the accession to the EU, even from a historical point of view. Until its formal
@@ -19168,7 +19171,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
                purchasing power standards in 2020 amounted to 89% of the EU average.</p>
          </div>
          <div type="summary" xml:id="summary-sl" xml:lang="sl" corresp="#summary">
-            <head xml:id="FromDreams-head-183">POVZETEK</head>
+            <head xml:id="FromDreams-head-183">Povzetek</head>
             <p xml:id="FromDreams-p-381">Tri desetletja samostojne države so vsekakor doba, ko lahko
                podamo mnenje o tranzicijskem procesu, ki se je na formalni ravni končal z vstopom v
                EU, tudi z zgodovinskega gledišča. Če se jo je vse do formalnega zaključka slovensko
@@ -19510,7 +19513,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
                EU.</p>
          </div>
          <div type="bibliogr" xml:id="bibl" xml:lang="en" corresp="#bibl-sl">
-            <head xml:id="FromDreams-head-184">LITERATURE AND SOURCES</head>
+            <head xml:id="FromDreams-head-184">Literature and Sources</head>
             <div type="subchapter" xml:id="bibl-sub01" corresp="#bibl-sub01-sl">
                <head xml:id="FromDreams-head-185">Archival sources</head>
                <list xml:id="FromDreams-list-60">
@@ -21396,7 +21399,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
             </div>
          </div>
          <div type="bibliogr" xml:id="bibl-sl" xml:lang="sl" corresp="#bibl">
-            <head xml:id="FromDreams-head-190">LITERATURA IN VIRI</head>
+            <head xml:id="FromDreams-head-190">Literatura in viri</head>
             <div type="subchapter" xml:id="bibl-sub01-sl" corresp="#bibl-sub01">
                <head xml:id="FromDreams-head-191">Arhivski viri</head>
                <list xml:id="FromDreams-list-66">
