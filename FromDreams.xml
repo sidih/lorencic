@@ -3,8 +3,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" xml:lang="en">From Dreams of a Second Switzerland' to Capitalism
-               Without a Human Face</title>
+            <title type="main" xml:lang="en">From Dreams Of 'A Second Switzerland' To Capitalism
+               Without A Human Face</title>
             <title type="sub" xml:lang="en">The Path of Economic Independence and Slovenian Economic
                Transition</title>
             <title type="main" xml:lang="sl">Od sanj o 'drugi Švici' v kapitalizem brez človeškega
@@ -59,8 +59,8 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
          <sourceDesc>
             <biblStruct>
                <monogr>
-                  <title>FROM DREAMS OF A SECOND SWITZERLAND' TO CAPITALISM WITHOUT A HUMAN
-                     FACE</title>
+                  <title>From Dreams 'of a Second Switzerland' to Capitalism Without a Human
+                     Face</title>
                   <author>
                      <forename>Aleksander</forename>
                      <surname>Lorenčič</surname>
@@ -115,12 +115,12 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
       <front>
          <titlePage>
             <docTitle>
-               <titlePart xml:lang="en">FROM DREAMS OF A SECOND SWITZERLAND' TO CAPITALISM WITHOUT A
-                  HUMAN FACE</titlePart>
+               <titlePart xml:lang="en">From Dreams Of 'A Second Switzerland' To Capitalism Without
+                  A Human Face</titlePart>
                <titlePart xml:lang="en">The Path of Economic Independence and Slovenian Economic
                   Transition</titlePart>
-               <titlePart xml:lang="sl">OD SANJ O 'DRUGI ŠVICI' V KAPITALIZEM BREZ ČLOVEŠKEGA
-                  OBRAZA</titlePart>
+               <titlePart xml:lang="sl">Od sanj o 'drugi Švici' v kapitalizem brez človeškega
+                  obraza</titlePart>
                <titlePart xml:lang="sl">Pot gospodarske osamosvojitve in tranzicija slovenskega
                   gospodarstva</titlePart>
             </docTitle>
@@ -166,7 +166,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
             <head>Iskanje</head>
          </divGen>
          <div type="preface" xml:id="preface-en" xml:lang="en" corresp="#preface-sl">
-            <head xml:id="FromDreams-head-10">FOREWORD</head>
+            <head xml:id="FromDreams-head-10">Foreword</head>
             <p xml:id="FromDreams-p-3">This year, Slovenia is celebrating 30 years of independent
                path and democracy of the Western type. In three decades, it has made a giant step
                forward; it is a member of all major international organizations and part of the
@@ -235,7 +235,7 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
                this book. I wish you a pleasant reading.</p>
          </div>
          <div type="preface" xml:id="preface-sl" xml:lang="sl" corresp="#preface-en">
-            <head xml:id="FromDreams-head-11">PREDGOVOR</head>
+            <head xml:id="FromDreams-head-11">Predgovor</head>
             <p xml:id="FromDreams-p-6">Slovenija letos obeležuje 30 let samostojne poti in
                demokracije zahodnega tipa. V treh desetletjih je naredila velik korak naprej, med
                drugim je članica vseh pomembnejših mednarodnih organizacij in del razvitega
@@ -18061,7 +18061,8 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
             </div>
          </div>
          <div type="chapter" xml:id="ch10" xml:lang="en" corresp="#ch10-sl">
-            <head xml:id="FromDreams-head-178">Unsuccessfull Efforts for a more Coherent Regional Development</head>
+            <head xml:id="FromDreams-head-178">Unsuccessfull Efforts for a more Coherent Regional
+               Development</head>
             <p xml:id="FromDreams-p-359">In Slovenia, an intentional revival of economic development
                in less developed parts of the republic began to be considered as early as October
                1946, by envisaging an establishment of a special fund to promote the development in
@@ -18446,7 +18447,8 @@ ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
             </p>
          </div>
          <div type="chapter" xml:id="ch10-sl" xml:lang="sl" corresp="#ch10">
-            <head xml:id="FromDreams-head-180">Neuspešna prizadevanja po skladnejšem regionalnem razvoju</head>
+            <head xml:id="FromDreams-head-180">Neuspešna prizadevanja po skladnejšem regionalnem
+               razvoju</head>
             <p xml:id="FromDreams-p-365">V Sloveniji so o načrtnem oživljanju gospodarskega razvoja
                v manj razvitih delih republike začeli razmišljati že oktobra 1946, tako da so
                predvideli ustanovitev posebnega sklada za pospeševanje razvoja v nerazvitih okrajih.
