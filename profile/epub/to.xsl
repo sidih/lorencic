@@ -88,7 +88,7 @@
    </doc>
    <xsl:template match="tei:availability" mode="kolofon">
       <xsl:apply-templates select="tei:licence" mode="kolofon"/>
-      <p>Cena: brezplačna publikacija</p>
+      <p>Cena: 14,99 €</p>
       <xsl:if test="tei:p[@rend='ciptitle']">
          <div class="CIP-obroba">
             <xsl:apply-templates select="tei:p[@rend='ciptitle']"/>
