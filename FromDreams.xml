@@ -47,13 +47,10 @@
                      Priznanje avtorstva-Nekomercialno-Brez predelav 4.0 Mednarodna licenco</ref>
                </p>
                <p rend="CIP" style="text-align:justify"
-                  ><!--<![CDATA[Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni knjižnici v Ljubljani<br/>
-<a href="https://cobiss.si/" target="_blank">COBISS.SI</a>-ID=<a href="https://plus.si.cobiss.net/opac7/bib/12345678" target="_blank">12345678</a><br/>
-ISBN 978-961-7104-06-6 (html)<br/>]]>--></p>
-            </availability>
-            <idno type="ISBN">ISBN</idno>
+                  ><![CDATA[Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni knjižnici v Ljubljani<br><a href="http://COBISS.SI" target="_blank">COBISS.SI</a>-ID <a href="https://plus.cobiss.si/opac7/bib/97581315" target="_blank">97581315</a><br>ISBN 978-961-05-0610-2 (ZRC SAZU, HTML)<br>ISBN 978-961-05-0611-9 (ZRC SAZU, ePUB)]]></p>
+            </availability>            
             <idno type="URI">https://sidih.github.io/lorencic/index.html</idno>
-            <idno type="COBISS.SI">COBISS.SI-ID </idno>
+            <idno type="hdl">http://hdl.handle.net/11686/46220</idno>
          </publicationStmt>
          <sourceDesc>
             <biblStruct>
