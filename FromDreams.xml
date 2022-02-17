@@ -21,6 +21,22 @@
                <name>Jure Gašparič</name>
             </respStmt>
             <respStmt>
+               <resp>Co-publishers / Sozaložniki</resp>
+               <orgName>Inštitut za novejšo zgodovino / Institute of Contemporary History</orgName>
+               <orgName>Slovenska matica</orgName>
+               <orgName>Založba ZRC (ZRC SAZU)</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Represented by / Predstavniki</resp>
+               <name>Andrej Pančur</name>
+               <name>Aleš Gabrič</name>
+               <name>Oto Luthar</name>
+            </respStmt>
+            <respStmt>
+               <resp>Cover / Naslovnica</resp>
+               <name>Brane Vidmar</name>
+            </respStmt>
+            <respStmt>
                <resp>English translation</resp>
                <name>Jasna Levanič</name>
             </respStmt>
@@ -28,18 +44,20 @@
                <resp>TEI Encoding / Kodiranje TEI</resp>
                <name>Mihael Ojsteršek</name>
             </respStmt>
-            <funder>Published with the financial support of Slovenian Research Agency and Studio
-               Moderna SA. The pictorial material is the property of the Muzej za novejšo zgodovino
-               (Ljubljana) and is copyrighted.</funder>
+            <funder><!--Published as printed book with the financial support of Slovenian Research Agency and Studio Moderna SA in 2021: <ref target="https://doi.org/10.3986/9789610505709">https://doi.org/10.3986/9789610505709</ref>.
+               Available also in EPUB format: ????? (in English), ISBN 978-961-05-0611-9, ??? (in Slovene), ISBN ?????.               
+               The pictorial material is the property of the Muzej za novejšo zgodovino
+               (Ljubljana) and is copyrighted.-->
+            </funder>            
          </titleStmt>
          <editionStmt>
             <edition>Editon 1.0</edition>
          </editionStmt>
-         <publicationStmt>
-            <publisher>Inštitut za novejšo zgodovino</publisher>
-            <publisher>Slovenska matica</publisher>
-            <publisher>ZRC SAZU</publisher>
-            <date when="2021">2021</date>
+         <publicationStmt>    
+            <authority>Inštitut za novejšo zgodovino</authority>
+            <authority>Slovenska matica</authority>
+            <authority>ZRC SAZU</authority>
+            <pubPlace>Ljubljana <date when="2021">2021</date></pubPlace>   
             <availability>
                <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
                <p style="text-align:justify">To delo je ponujeno pod <ref
@@ -47,7 +65,7 @@
                      Priznanje avtorstva-Nekomercialno-Brez predelav 4.0 Mednarodna licenco</ref>
                </p>
                <p rend="CIP" style="text-align:justify"
-                  ><![CDATA[Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni knjižnici v Ljubljani<br><a href="http://COBISS.SI" target="_blank">COBISS.SI</a>-ID <a href="https://plus.cobiss.si/opac7/bib/97581315" target="_blank">97581315</a><br>ISBN 978-961-05-0610-2 (ZRC SAZU, HTML)<br>ISBN 978-961-05-0611-9 (ZRC SAZU, ePUB)]]></p>
+                  ><![CDATA[Kataložni zapis o publikaciji (CIP) pripravili v Narodni in univerzitetni knjižnici v Ljubljani<br><a href="http://COBISS.SI" target="_blank">COBISS.SI</a>-ID <a href="https://plus.cobiss.si/opac7/bib/97581315" target="_blank">97581315</a><br>ISBN 978-961-05-0610-2 (ZRC SAZU, HTML)<br>]]></p>
             </availability>            
             <idno type="URI">https://sidih.github.io/lorencic/index.html</idno>
             <idno type="hdl">http://hdl.handle.net/11686/46220</idno>
