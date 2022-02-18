@@ -56,7 +56,7 @@
          <publicationStmt>    
             <authority>Inštitut za novejšo zgodovino</authority>
             <authority>Slovenska matica</authority>
-            <authority>ZRC SAZU</authority>
+            <authority>Založba ZRC (ZRC SAZU)</authority>
             <pubPlace>Ljubljana <date when="2021">2021</date></pubPlace>   
             <availability>
                <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
@@ -82,7 +82,7 @@
                   <imprint>
                      <publisher>Inštitut za novejšo zgodovino</publisher>
                      <publisher>Slovenska matica</publisher>
-                     <publisher>ZRC SAZU</publisher>
+                     <publisher>Založba ZRC (ZRC SAZU)</publisher>
                      <pubPlace>Ljubljana</pubPlace>
                      <date when="2021">2021</date>
                   </imprint>
@@ -141,10 +141,9 @@
             <docAuthor>Aleksander Lorenčič</docAuthor>
             <graphic url="cover.jpg"/>
             <docImprint>
-               <publisher>Inštitut za novejšo zgodovino / Institute of Contemporary
-                  History</publisher>
+               <publisher>Inštitut za novejšo zgodovino</publisher>
                <publisher>Slovenska matica</publisher>
-               <publisher>ZRC SAZU</publisher>
+               <publisher>Založba ZRC (ZRC SAZU)</publisher>
                <pubPlace>Ljubljana</pubPlace>
                <docDate>2021</docDate>
             </docImprint>
