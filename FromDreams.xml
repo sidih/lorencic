@@ -2442,7 +2442,7 @@
                         Institute of Contemporary History, 2012, p. 25.</bibl>
                   </note>
                </p>
-               <figure xml:id="figure1">
+               <!--<figure xml:id="figure1">
                   <graphic url="https://www2.sistory.si/publikacije/monografije/Lorencic/pictures/figure1.jpg"/>
                   <head>Jeffrey Sachs upon his arrival in the Slovenian Parliament, photo by Tone
                      Stojko</head>
@@ -2573,7 +2573,7 @@
                <figure xml:id="figure31">
                   <graphic url="https://www2.sistory.si/publikacije/monografije/Lorencic/pictures/figure31.jpg"/>
                   <head>Notice on opening a citizen's ownership certificate account</head>
-               </figure>
+               </figure>-->
             </div>
          </div>
          <div type="chapter" xml:id="ch4-sl" xml:lang="sl" corresp="#ch4">
@@ -3309,7 +3309,7 @@
                      <bibl>Gašparič, <hi rend="italic">Državni zbor 1992-2012, </hi> str. 25.</bibl>
                   </note>
                </p>
-               <figure xml:id="figure1-sl">
+               <!--<figure xml:id="figure1-sl">
                   <graphic url="https://www2.sistory.si/publikacije/monografije/Lorencic/pictures/figure1-sl.jpg"/>
                   <head>Jeffrey Sachs ob prihodu v slovenski parlament, foto Tone Stojko</head>
                </figure>
@@ -3437,7 +3437,7 @@
                <figure xml:id="figure31-sl">
                   <graphic url="https://www2.sistory.si/publikacije/monografije/Lorencic/pictures/figure31-sl.jpg"/>
                   <head>Obvestilo o odprtju računa lastninskega certifikata državljana</head>
-               </figure>
+               </figure>-->
             </div>
          </div>
          <div type="chapter" xml:id="ch5" xml:lang="en" corresp="#ch5-sl">
