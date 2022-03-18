@@ -160,12 +160,6 @@
          <divGen type="toc" xml:id="sl-toc" xml:lang="sl" corresp="#toc">
             <head>Kazalo vsebine</head>
          </divGen>
-         <divGen type="toc" xml:id="images" xml:lang="en" corresp="#sl-images">
-            <head>List of Images</head>
-         </divGen>
-         <divGen type="toc" xml:id="sl-images" xml:lang="sl" corresp="#images">
-            <head>Seznam slik</head>
-         </divGen>
          <divGen type="toc" xml:id="tables" xml:lang="en" corresp="#sl-tables">
             <head>List of Tables</head>
          </divGen>
