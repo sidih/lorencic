@@ -88,7 +88,7 @@
    </doc>
    <xsl:template match="tei:availability" mode="kolofon">
       <xsl:apply-templates select="tei:licence" mode="kolofon"/>
-      <p>Cena: 14,99 €</p>
+      <p>Price: 14,99 €</p>
       <xsl:if test="tei:p[@rend='ciptitle']">
          <div class="CIP-obroba">
             <xsl:apply-templates select="tei:p[@rend='ciptitle']"/>
@@ -125,7 +125,108 @@
          </div>
       </xsl:if>
    </xsl:template>
+   <!--
+   <xsl:param name="documentationLanguage">en</xsl:param>-->
    
+   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+      <desc></desc>
+   </doc>
+   <xsl:template match="tei:titleStmt" mode="kolofon">
+      <!-- avtor -->
+      <p>
+         <xsl:for-each select="tei:author">
+            <span itemprop="author">
+               <xsl:choose>
+                  <xsl:when test="tei:forename or tei:surname">
+                     <xsl:for-each select="tei:forename">
+                        <xsl:value-of select="."/>
+                        <xsl:if test="position() ne last()">
+                           <xsl:text> </xsl:text>
+                        </xsl:if>
+                     </xsl:for-each>
+                     <xsl:if test="tei:surname">
+                        <xsl:text> </xsl:text>
+                     </xsl:if>
+                     <xsl:for-each select="tei:surname">
+                        <xsl:value-of select="."/>
+                        <xsl:if test="position() ne last()">
+                           <xsl:text> </xsl:text>
+                        </xsl:if>
+                     </xsl:for-each>
+                  </xsl:when>
+                  <xsl:otherwise>
+                     <xsl:value-of select="."/>
+                  </xsl:otherwise>
+               </xsl:choose>
+            </span>
+            <xsl:if test="position() != last()">
+               <br/>
+            </xsl:if>
+         </xsl:for-each>
+      </p>
+      <!-- Naslov mora vedno biti, zato ne preverjam, če obstaja. -->
+      <p itemprop="name">
+         <xsl:for-each select="tei:title[@xml:lang='en']">
+            <b><xsl:value-of select="."/></b>
+            <xsl:if test="following-sibling::tei:title[@xml:lang='en']">
+               <xsl:text> : </xsl:text>
+            </xsl:if>
+         </xsl:for-each>
+         <br/>     
+         <br/>         
+         <xsl:for-each select="tei:title[@xml:lang='sl']">
+            <b><xsl:value-of select="."/></b>
+            <xsl:if test="following-sibling::tei:title">
+               <xsl:text> : </xsl:text>
+            </xsl:if>
+         </xsl:for-each>
+      </p>
+      <br/>
+      <br/>
+      <xsl:apply-templates select="tei:respStmt" mode="kolofon"/>
+      <br/>
+      <xsl:if test="tei:funder">
+         <!--<p>Published as printed book with the financial support of Slovenian Research Agency and Studio Moderna SA in 2021: <a href="https://doi.org/10.3986/9789610505709">https://doi.org/10.3986/9789610505709</a>.
+            </p>--><!--<p><br/>Available also in EPUB format: From Dreams of 'a Second Switzerland' to Capitalism
+            Without a Human Face (in English), ISBN 978-961-05-0611-9, Od sanj o 'drugi Švici' v kapitalizem brez človeškega
+            obraza (in Slovene), ISBN ?????.</p>-->
+         <xsl:for-each select="tei:funder">
+            <p itemprop="funder">
+               <xsl:value-of select="."/>
+            </p>
+         </xsl:for-each>
+      </xsl:if>
+      <br/>
+      </xsl:template>
    
+   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+      <desc>orgName v respStmt</desc>
+   </doc>
+   <xsl:template match="tei:respStmt" mode="kolofon">
+      <xsl:apply-templates select="tei:resp" mode="kolofon"/>
+   </xsl:template>
+   <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
+      <desc></desc>
+   </doc>
+   <xsl:template match="tei:resp" mode="kolofon">
+      <p>
+         <em>
+            <xsl:value-of select="concat(.,':')"/>
+         </em>
+         <br />
+         <xsl:for-each select="following-sibling::tei:name">
+            <span itemprop="contributor">
+               <xsl:apply-templates/>
+            </span>
+            <br />
+         </xsl:for-each>
+         <xsl:for-each select="following-sibling::tei:orgName">
+            <span itemprop="contributor">
+               <xsl:apply-templates/>
+            </span>
+            <br />
+         </xsl:for-each>
+      </p>
+   </xsl:template>
    
 </xsl:stylesheet>
